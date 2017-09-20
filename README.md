@@ -8,9 +8,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 315
+    name: Garner, Jeffry
+    url: https://github.com/bigdata-i523/hid315
 ```
 
 # Paper 1
