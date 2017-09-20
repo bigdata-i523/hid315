@@ -1,0 +1,21 @@
+owner:
+    hib:  315
+    name: Jeff Garner
+    url:
+    
+    ...
+    
+    # Paper 1
+    
+    ...
+    paper1
+      author:
+      - Jeff Garner
+      hid:
+      - 315
+      title: Big Data - Role and Impact on Mobility Network Traffic
+      abstract: Network traffic types, role of apps and challenges of gleaning wisdom from data
+      url:
+      type: WORD
+      status: in progress
+     
