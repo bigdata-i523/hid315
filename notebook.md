@@ -19,9 +19,17 @@ LOGISTICS
    
    (8/22/17 - 9/3/17) - Section 1.6 Term Paper from Webpage along with 1.10 Organization.
    (9/11/17) - 2.2 LaTeX
+   (9/19/17) - Viewed video from Class webpage on Jabref/Bobtex format etc.  Will attempt to do this with MS WORD (read through that    information also)
    
    ASSIGNMENTS
    
    (9/3/17 - 9/19/17) - Gather data and resources for Paper 1.
+   (9/19/17 - 9/24/17) - Completed reading of material and rough draft.
+   (9/25/17) - Selected Paper 2 title and details and received approval from the professor. 
+   
+   MEETING
+   
+   (9/11/17) - Attended Monday call with Professor
+   (9/25/17) - Attended Monday call with Professor
   
    
