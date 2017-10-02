@@ -23,7 +23,7 @@ paper1:
    - 315
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
    status: in progress
    chapter: TBD
