@@ -21,7 +21,7 @@ paper1:
    - Garner, Jeffry
    hid:
    - 315
-   title: This is my paper about xyz
+   title: Roles and Impact on Mobility Network Traffic in Big Data
    abstract: This paper showcases this and that and the other
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
