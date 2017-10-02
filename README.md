@@ -18,11 +18,9 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Garner, Jeffry
    hid:
-   - 000
-   - 001
+   - 315
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
