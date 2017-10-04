@@ -1,8 +1,4 @@
 # hid315
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
 
@@ -22,10 +18,16 @@ paper1:
    hid:
    - 315
    title: Roles and Impact on Mobility Network Traffic in Big Data
-   abstract: This paper deals with the challenge Big Data/Data Science has with mobility network traffic in relationship to  forecasting  network demands.  At a high level will look at traffic types, varience in the data types and the potential that exist leveraging and aligning all this big data to truly tell us something meaningful. 
+   abstract: >
+       This paper deals with the challenge Big Data/Data Science has
+       with mobility network traffic in relationship to  forecasting
+       network demands.  At a high level will look at traffic types,
+       varience in the data types and the potential that exist leveraging
+       and aligning all this big data to truly tell us something
+       meaningful.
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
-   status: I am converting from WORD to ShareLaTeX and slowed down by a few issues: A figure, doesn't like some of the text (not sure why) and when using \cite, it's not recognizing my references. Working on it. 
+   status: 10%
    chapter: Technology
 ```
    
