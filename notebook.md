@@ -3,9 +3,9 @@ LOGISTICS
   (8/22/17 - 8/23/17) - Created Github, Chameleon Cloud, Future Sytem accounts.  Also viewed Piazza video and documentation.
   (9/10/17) - Investigated Rasberry PI
   (first half of Sept.) worked through a variety of computer issues at work.  Will not work from home with Mac.
-  9/11/17 - Attended Monday call with professor
-  9/25/17 - Attended Monday call with professor
-  10/1/17 - Atteneded Monday call with professor.  I am converting from WORD to ShareLaTex in order to meet the required formatting.  However, stuggling with the inclusion of an figure and my bibliography.  Also, my two pages in WORD are not that in ShareLaTex which I would have had much larger but cut down to two pages in WORD, at least that appears the cases as of now.
+  (9/11/17) - Attended Monday call with professor
+  (9/25/17) - Attended Monday call with professor
+  (10/1/17) - Atteneded Monday call with professor.  I am converting from WORD to ShareLaTex in order to meet the required formatting.  However, stuggling with the inclusion of an figure and my bibliography.  Also, my two pages in WORD are not that in ShareLaTex which I would have had much larger but cut down to two pages in WORD, at least that appears the cases as of now.
   
   THEORY
   
