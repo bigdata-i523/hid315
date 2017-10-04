@@ -4,11 +4,14 @@ LOGISTICS
   (9/10/17) - Investigated Rasberry PI
   (first half of Sept.) worked through a variety of computer issues at work.  Will not work from home with Mac.
   9/11/17 - Attended Monday call with professor
+  9/25/17 - Attended Monday call with professor
+  10/1/17 - Atteneded Monday call with professor.  I am converting from WORD to ShareLaTex in order to meet the required formatting.  However, stuggling with the inclusion of an figure and my bibliography.  Also, my two pages in WORD are not that in ShareLaTex which I would have had much larger but cut down to two pages in WORD, at least that appears the cases as of now.
   
   THEORY
   
    (9/12/17 - 9/19/17) - Viewed videos and slides in section 3.0, specifically 3.1 Intro and 3.2 Overview.
    (9/3/17 - 9/17/17) - Reading, Communications of the ACM (Assoc. Communicatio Machinery) "Data Science: Challenges and Directions" from August, 2017 edition.
+   (9/25/17 - 9/31/17) - Viewed powerpoint and you tube videos (Geoffry Fox) on sections 3.3.1.1 - 3.3.2.5 and assorted use cases related to the NIST project. 
    
    PRACTICE
    
@@ -20,16 +23,19 @@ LOGISTICS
    (8/22/17 - 9/3/17) - Section 1.6 Term Paper from Webpage along with 1.10 Organization.
    (9/11/17) - 2.2 LaTeX
    (9/19/17) - Viewed video from Class webpage on Jabref/Bobtex format etc.  Will attempt to do this with MS WORD (read through that    information also)
+   (9/25/17 - 9/31/17) - Paper is written in WORD, due to formatting will redo in ShareLaTeX (which is ongoing).
    
    ASSIGNMENTS
    
    (9/3/17 - 9/19/17) - Gather data and resources for Paper 1.
    (9/19/17 - 9/24/17) - Completed reading of material and rough draft.
    (9/25/17) - Selected Paper 2 title and details and received approval from the professor. 
+   (9/25/17 - 9/31/17) - Gathered material for Paper 2.
    
    MEETING
    
    (9/11/17) - Attended Monday call with Professor
    (9/25/17) - Attended Monday call with Professor
+   (10/1/17) - Attended Monday call with Professor
   
    
