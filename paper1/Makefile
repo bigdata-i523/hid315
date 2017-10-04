@@ -1,7 +1,9 @@
 FILE=report
-FLAGS=-interaction nonstopmode -halt-on-error -file-line-error 
+FLAGS=-interaction nonstopmode -halt-on-error -file-line-error
+# -shell-escape
 
 all:
+#	wget -Nq https://raw.githubusercontent.com/bigdata-i523/sample-hid000/master/paper1/i523.tex
 	pdflatex ${FLAGS} ${FILE}
 	bibtex ${FILE}
 	pdflatex ${FLAGS} ${FILE}

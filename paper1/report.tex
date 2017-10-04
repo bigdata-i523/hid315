@@ -1,5 +1,9 @@
 \documentclass[sigconf]{acmart}
 
+%\immediate\write18{wget -Nq  https://raw.githubusercontent.com/bigdata-i523/sample-hid000/master/paper1/i523.tex}
+%\input{i523}
+
+\usepackage{graphicx}
 \usepackage{hyperref}
 
 \usepackage{endfloat}
@@ -11,7 +15,10 @@
 \renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
 \pagestyle{plain} % removes running headers
 
+
 \begin{document}
+
+
 \title{Big Data for Edge Computing}
 
 
@@ -143,7 +150,7 @@ bottom line.
 
 
 \begin{figure}
-\includegraphics{images/graph}
+\includegraphics[width=\columnwidth]{images/graph}
 \caption{A sample black and white graphic. \cite{??}}
 \label{F:graph}
 \end{figure}
