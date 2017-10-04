@@ -22,7 +22,7 @@ paper1:
    hid:
    - 315
    title: Roles and Impact on Mobility Network Traffic in Big Data
-   abstract: This paper showcases this and that and the other
+   abstract: This paper deals with the challenge Big Data/Data Science has with mobility network traffic in relationship to  forecasting  network demands.  At a high level will look at traffic types, varience in the data types and the potential that exist leveraging and aligning all this big data to truly tell us something meaningful. 
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
    status: in progress
