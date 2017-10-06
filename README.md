@@ -27,7 +27,7 @@ paper1:
        meaningful.
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
-   status: 10%
+   status: 90%.  Still need to update keywords and visit checklist for final complete.  Will update my status. 
    chapter: Technology
 ```
    
