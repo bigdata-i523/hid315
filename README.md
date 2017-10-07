@@ -27,7 +27,7 @@ paper1:
        meaningful.
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
-   status: 90%.  Still need to update keywords and visit checklist for final complete.  Will update my status. 
+   status: 100%  When looking at report.txt it did not show the text but a downloadable raw report. As a result, I included the .pdf.
    chapter: Technology
 ```
    
@@ -36,13 +36,13 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Garner, Jeffry L
    hid:
-   - 000
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
+   - 315
+   title:TBD
+   abstract: The new technology used in football helmets in regards to concussions....and any role for Big Data/Data Science.
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
-   type: word
+   type: latex
    status: in progress
 ```
 
