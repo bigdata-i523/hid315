@@ -39,8 +39,10 @@ paper2:
    - Garner, Jeffry L
    hid:
    - 315
-   title:TBD
-   abstract: The new technology used in football helmets in regards to concussions....and any role for Big Data/Data Science.
+   title: TBD
+   abstract: >
+       The new technology used in football helmets in regards to
+       concussions....and any role for Big Data/Data Science. 
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: latex
    status: in progress
