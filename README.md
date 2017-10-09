@@ -27,7 +27,7 @@ paper1:
        meaningful.
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
-   status: 100%  When looking at report.txt it did not show the text but a downloadable raw report. As a result, I included the .pdf.
+   status: 100% - broken
    chapter: Technology
 ```
    
