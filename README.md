@@ -27,7 +27,7 @@ paper1:
        meaningful.
    url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
    type: latex
-   status: 100% - broken
+   status: 0%
    chapter: Technology
 ```
    
