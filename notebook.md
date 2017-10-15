@@ -5,8 +5,9 @@ LOGISTICS
   (first half of Sept.) worked through a variety of computer issues at work.  Will not work from home with Mac.
   (9/11/17) - Attended Monday call with professor
   (9/25/17) - Attended Monday call with professor
-  (10/1/17) - Atteneded Monday call with professor.  I am converting from WORD to ShareLaTex in order to meet the required formatting.  However, stuggling with the inclusion of an figure and my bibliography.  Also, my two pages in WORD are not that in ShareLaTex which I would have had much larger but cut down to two pages in WORD, at least that appears the cases as of now.
-  (10/4/17) - Attended Wednesday call with TA and Professor.  
+  (10/1/17) - Atteneded Monday call with professor.  I am converting from WORD to ShareLaTex in order to meet the required formatting.    However, stuggling with the inclusion of an figure and my bibliography.  Also, my two pages in WORD are not that in ShareLaTex which I would have had much larger but cut down to two pages in WORD, at least that appears the cases as of now.
+  (10/4/17) - Attended Wednesday call with TA and Professor. 
+  (10/6/17 - 10/9/17) - Attended calls with TA and Professor.
   
   THEORY
   
@@ -26,6 +27,7 @@ LOGISTICS
    (9/19/17) - Viewed video from Class webpage on Jabref/Bobtex format etc.  Will attempt to do this with MS WORD (read through that    information also)
    (9/25/17 - 9/31/17) - Paper is written in WORD, due to formatting will redo in ShareLaTeX (which is ongoing).
    (10/5/17) - Uploaded nearly completed Paper 1.  Still have a few last minute items.  Will complete by Saturday.
+   (10/9/17 - 10/13/17) - Gathered material for Paper 2 and have begun reading.
    
    ASSIGNMENTS
    
@@ -34,6 +36,8 @@ LOGISTICS
    (9/25/17) - Selected Paper 2 title and details and received approval from the professor. 
    (9/25/17 - 9/31/17) - Gathered material for Paper 2.
    (10/5/17) - Nearly final draft of Paper 1 is uploaded to GitHub.  After checklist will complete tomorrow or Saturday and inform Prof.  Gathered more material for Paper 2. 
+   (10/9/17 - 10/13/17) - Finished gathering material for Paper 2 and begun reading.
+   
    
    MEETING
    
@@ -41,5 +45,7 @@ LOGISTICS
    (9/25/17) - Attended Monday call with Professor
    (10/1/17) - Attended Monday call with Professor
    (10/4/17) - Attended Wednesday call with Professor and TA. 
+   (10/6/17) - Attended Friday call.
+   (10/9/17) - Attended Monday call and worked through my own errors of renaming a zip file that causes issues along with others.
   
    
