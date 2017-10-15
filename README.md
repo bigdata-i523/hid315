@@ -39,13 +39,15 @@ paper2:
    - Garner, Jeffry L
    hid:
    - 315
-   title: TBD
+   title: Smart Helmets and Big Data's Opportunities and Challenges
    abstract: >
-       The new technology used in football helmets in regards to
-       concussions....and any role for Big Data/Data Science. 
+       This paper will provide a topical approach to the abilities of football helments to gather collission information
+       and look at the ramification to Bid Data.  That is, the opportunities and challenges.
+       Note, I will add more as I complete the research. 
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: latex
    status: in progress
+   chapter: Technology
 ```
 
 # Project 
