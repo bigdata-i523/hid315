@@ -20,12 +20,13 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
 paper2:
-    abstract: This paper showcases tis and that and the other
+    abstract: This paper looks at the role of Big Data/Data Science related to smart helmets.  Types of data, availability of data and limitations.
+              This includes data challenges around legal issues.
     author:
-        - Gregor von Laszewski
+        - Garner, Jeffry
     hid:
-        - 0
-    status: in progress
-    title: Benchmarking a BigData Docker deployment
+        - 315
+    status: in progress - 15% complete
+    title: Big Data Opportunity and Challenges with Smart Helmets
     type: latex
-    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    url: https://github.com/bigdata-i523/sample-pid000/paper2/paper2.pdf
