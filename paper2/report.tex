@@ -1,1 +1,102 @@
+\documentclass[sigconf]{acmart}
+\input{format/i523}
+
+
+
+\begin{document}
+
+\title{Concussions and Big Data's Opportunities and Challenges}
+
+
+
+\author{Jeffry L. Garner}
+\affiliation{%
+  \institution{Indiana University}
+  \streetaddress{Online Student}
+  \city{} 
+  \state{} 
+  \postcode{}
+}
+\email{jeffgarn@iu.edu}
+
+\begin{abstract}
+
+The medical world is asking questions regarding head injuries (concussions) and long-term neurological disease.  What relationship could concussions have with Chronic Traumatic Encephalopathy or Alzheimer's.  The death of several well known athletes, in particular Junior Seau, the Hall of Fame football player, brought to light the issue and focused more attention on it.  As did the need to gather data on head impacts, and other data to see if data and technology can help provide meaningful information to the medical community, and hopefully understand better the causes and become pro-active in limiting injuries and neurological diseases related to the injuries. 
+
+\end{abstract}
+
+\keywords{i523, hib315, Big Data, Concussions, Traumatic Brain Injury, Data Types, TBI, Data Modeling}
+
+
+\maketitle
+
+\section{Introduction}
+
+''I'm back you're home the days you really miss me.  I guess you did by the look in your eyes. Now lay back and relax let your body put away the distance then you and me can rock a bye.''  So says Anita Ward in her classic 1979 disco anthem - Ring My Bell. Back in the day getting your ''bell rung'' meant something quite different and much more serious.  
+
+The US National Library of Medicine defines concussion as a minor traumatic brain injury (TBI) that may occur when the head hits an object or when a moving object strikes the head.  Typically with a TBI, there is leakage from a blood vessel in the brain as a result of the trauma within the brain.  This leakage can accumulate in the skull and the resulting pressure can lead to brain damage and even death.  
+
+"In 2015, approximately 2 million individuals suffered with TBIs in the USA alone, and the number worldwide was approximately 60 million.  The medical, economical and social expenses directly related to TBI are approximately 96 billion dollars annually in the USA alone.  Injuries that include TBI cause the deaths of approximately 150 people per day in the USA resulting in approximately 50,000 deaths per year.''\cite{www-futuremedicine-com}  Even more concerning, ''nearly one-third of athletes have sustained a concussion that went undiagnosed and risked further brain injury, according to the Clinical Journal of Sport Medicine'' \cite{www-eptechview-tthuhsc-edu}
+
+With the increase in technology, i.e., smart helmets, helmet inserts, and data gathering; can Big Data play a role in keeping our athletes healthier?  The National Football League thinks so, as they have hired Biokinetics Inc. to provide data from the testing of 17 helmets used in the 2015 football season.  ''The National Football League has funneled millions of dollars into big data and biosensors to help understand player injuries better.''\cite{www-zdnet-com}
+
+
+\section{The Technologies}
+
+The science behind TBIs as well as the technologies available to athletes has grown significantly.  For example, helmet manufactures have various types of ''smart helmets''.  University of Wisconsin students are developing a football helmet with ''brain wave probes and a device that measures acceleration forces to detect concussions on the field and directly communicate the information to medical staff''. \cite{www-jsonline-com} Riddell, a leading US football helmet manufacturer has the InSite system that gathers data via sensors and communicates wireless alerts and information to medical staff and coaches real-time.  Numerous manufacturers have some version or variation of the {\em smart helmet}.  Most however measure the impacts or force of the impacts and gather that information.  Over the last several years the sensors have become more accurate in measuring force detail, like location and g-force (compared to the force of gravity).  
+
+Unequal Technologies has designed a helmet liner that fits over the existing helmet.  One of the most interesting approaches to helmet development is that by Colorado Springs engineer Troy Fodemski.  Mr. Fodemski's version of the {\em smart helmet} imagined a ''helmet use of sensors to measure a hit, compare it to a set of criteria, and deploy up to 75 airbags inside the helmet that would precisely cushion the area of impact, thereby stopping the brain from forward movement.  This helmet is the first to use airbag technology.''\cite{www-designworldonline-com}
+
+\section{The Data}
+
+With all this data from the helmets now the data scientist is ready to go, right?  If only it were that simple.  Data gathered from the helmet is actually just one type of data but there are many more.  It's important to note that the study of TBIs is an ongoing effort with ongoing discoveries.  The effort is to understand TBIs, understand the causes, symptoms and try to limit or eliminate them.  Therefore, understanding historical research, similarities to animals and the corresponding historical research, biomarkers, neurological changes, imaging, sensors and other medical related research are all data types that play a role.
+
+This is a good time to mention the three V's of big data: Volume, Variety and Velocity.  With all of these data types, along with the amount of data needed to support high definition imaging, the recording of daily activity with the use of the helmet, historical data and the like, the volume can be very large.  The data variety comes in the form of structured and unstructured data, anything from historical medical research documents to measured sensor numbers, technical chemical measurements and images.  Data velocity is diverse with some data arriving daily or hourly ({\em real time}), while access to medical research journal is based on accessibility and download speed. 
+
+\section{Historical Medical Research}
+
+There is extensive historical medical research into TBIs, much of which is tied to neurological measurements with the patient - {\em after the fact}.  It's also from this research that we are beginning to learn the long-term affects of TBIs on the health of the athlete.  Additionally, some related research has been done on animals, but making a correlation between the animal and a human can be problematic.  For the data scientist, most of the research is high quality but the conclusions can be challenging to manage.  Comparing them to other data sources and making them relatable across data types to the data scientist is the problem.  
+
+\section{Biomarkers}
+
+To the data scientist, this data may need to be broken down into more granular detail like, neurological measurements (behavioral, neurological function like memory or mood, and items that are more objective to measure) or psychological measurements.  However, we know ''Tau is a protein that forms in the brain when someone experiences a concussion, or any form of brain damage.''.\cite{www-eptechview-tthuhsc-edu}  The measurement of cerebrospinal fluid and blood can be used to measure changes in proteins as well as other biomarkers.  There is extensive research on biomarkers for TBIs, which is good news for the data scientist, something quantitative that can be used.  However, most of these biomarkers are based on severe TBIs.  ''In mild TBI/concussion where imaging is negative, there is a substantial need for blood - or CSF-based biomarkers.  Also, even though current blood-based biomarkets can indicate the extent of damage, they do not provide information about the pathological changes of the secondary injury process, and thus they cannot identify therapeutic targets or help with evidence-based therapy.''\cite{www-futuremedicine-com}
+
+\section{Imaging}
+
+The good news for the data scientist is that this is enriched data that has the promise of a level of consolidation and is quantifiable, that is, the data can be managed.  There are imaging tools available like Brain-Map and others that can help with the mining of data; however, challenges abound for the data scientist due to data size, lack of agreed upon and consistent methods, and standards.  A standard MRI is about 5-6 MB's while, ''just the acquired neuroimaging data alone are an average of 20 GB per published study.'' \cite{www-futuremedicine-com} The expectation is that the file size for imaging will double every two years.  And much like biomarkers, imaging provides more definitive data for the serious TBIs versus the more mild episodes.  ''The main challenge is standardization or how to take into account differences between various laboratories using different acquisition rates, resolutions, scanning parameters, among others.''\cite{www-futuremedicine-com}
+
+\section{Sensors}
+
+TBIs use to be seen based on those that had a clear neurological impact.  On the football field we would here ''his bell was rung'', based on the fact the athlete would briefly lose consciousness or memory.  However, current medical thought is that it may not always be the big hit, the {\em bell ring} that causes the long term damage but milder TBIs that happen more frequently and over a longer period of time.  
+
+The key then is to try to ''measure'' the TBIs.  ''Because TBI is caused by physical forces that can be measured and quantified, an important step toward using BD (Big Data) approaches and developing a TBI dosimetry is to understand the correlation between the physical forces and the biological response.''\cite{www-futuremedicine-com}  ''Thus, approaches to track and gauge the cumulative effects of repeated mild TBI are at the forefront of investigation.  Understanding the relationships among frequency, location, force and thresholds for concussion with those of acute and long-term changes in physiology, cognition, vision, balance and presence of blood markets is hindered by accuracy of recording impacts sustained.''\cite{www-futuremedicine-com}
+
+Sensors can vary in function but three agreed upon variables that need to be captured are the number and location of the head impacts along with the measurement of g-force.  The number, location and force of the hit is critical to bridging the gap between the physical force (the hit) and the biological response. 
+
+\section{What's a Data Scientist to do}
+
+The data has to be collected at the most granular level.  At this point there will need to be some extensive modeling done to start to build relationships between the different types of data.  This includes the critical step of building a correlation between the data types.  For example, given physical force of A and a brain image within category B, we see the biological response of C.  From here we can build additional models and change existing ones as the data builds, and we increase our ability to quantify variables, making some unstructured data structured and moving from big data to smart data. ''There is a degree of agility and flexibility in the sort of modeling required for Smart Data that vastly exceeds that of non-Semantic data.  In the case of the latter, Data Modelers have to determine in advance of the model's creation each and every question that the model will answer, and how it is going to relate to specific facets of known data types. Such a process is not only arduous and type consuming, but makes it difficult to add new sources or to change the requirements for a model.''\cite{www-dataversity-net}
+
+
+
+\section{Challenge and Conclusion}
+
+Ironically, when a boxer is knocked out, the ring-side bell is actually rung.  Any athlete, be it a football player, hockey player or boxer needs big data.  Not only can big data help with gleaning meaningful information from a plethora of related sources, it has to!  With the technology to gather and manage data in data lakes, and with intelligence garnered from detailed data collection, and modeling, it's big data that can provide the wisdom needed by the medical community.  It's big data that can ring the bell and help stop the progression of these diseases and keep our athletes healthier.  
+
+
+
+\begin{acks}
+
+Many thanks to Professor Gregor von Laszewski, the Teaching Assistants and Indiana University. I also want to thank Katie, my understanding wife.  Lastly, for my employer AT\&T for a commitment to education and giving me 26 years of experience, challenge and opportunity.
+
+\end{acks}
+
+
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{report} 
+
+\end{document}
+
+
 
