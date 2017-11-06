@@ -8,7 +8,8 @@ LOGISTICS
   (10/1/17) - Atteneded Monday call with professor.  I am converting from WORD to ShareLaTex in order to meet the required formatting.    However, stuggling with the inclusion of an figure and my bibliography.  Also, my two pages in WORD are not that in ShareLaTex which I would have had much larger but cut down to two pages in WORD, at least that appears the cases as of now.
   (10/4/17) - Attended Wednesday call with TA and Professor. 
   (10/6/17 - 10/9/17) - Attended calls with TA and Professor.
-  (10/30/17) - Behind on Python beginning Paper 2 development now.  Attended to family situation.  
+  (10/30/17) - Behind on Python beginning Paper 2 development now.  Attended to family situation.
+  (11/6/17) - Completed paper 2 and uploaded to Github.  This week plan to work on Python and update paper 2 as needed.  Also work on data for project and visit with the professor. 
   
   THEORY
   
@@ -30,6 +31,7 @@ LOGISTICS
    (10/5/17) - Uploaded nearly completed Paper 1.  Still have a few last minute items.  Will complete by Saturday.
    (10/9/17 - 10/13/17) - Gathered material for Paper 2 and have begun reading.
    (10/30/17) - Completing Paper 2 reading and to begin writing. 
+   (11/6/17) - Completed Paper 2 and uploaded to Github repository.
    
    ASSIGNMENTS
    
@@ -40,6 +42,7 @@ LOGISTICS
    (10/5/17) - Nearly final draft of Paper 1 is uploaded to GitHub.  After checklist will complete tomorrow or Saturday and inform Prof.  Gathered more material for Paper 2. 
    (10/9/17 - 10/13/17) - Finished gathering material for Paper 2 and begun reading.
    (10/30/17) - Finishing reading on Paper 2 and to begin writing.  Behind on Python and look to catch up in the next two weeks.
+   (11/6/17) - Finished paper 2 and uploaded and completed Github repository.
    
    
    MEETING
@@ -50,5 +53,5 @@ LOGISTICS
    (10/4/17) - Attended Wednesday call with Professor and TA. 
    (10/6/17) - Attended Friday call.
    (10/9/17) - Attended Monday call and worked through my own errors of renaming a zip file that causes issues along with others.
-  
+   (10/30/17) - Attended Monday call.
    
