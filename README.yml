@@ -37,13 +37,33 @@ project:
         the data driven concern regarding both the general population and military. A deep
         dive into the CDC (Center for Disease Control) reporting along with a raw JSON
         dataset from the Veterans Affairs Agency.  While we show some limited python functionality, the
-        data is converted and parsed then charted to help tell a story.  
+        data is converted and parsed then charted to help tell a story. 
+        
+        note 1 on project: the bulk of the data analysis started with JSON data converted to CSV and then 
+        parsing, charting, etc.  graph2 in github is a snippet of the JSON data.  The entire dataset
+        is available at the website (that I included in the .bib).  Also, I could not get the image
+        to adjust properly.
+        
+        note 2 on project: The converted JSON files to CSV are included in github.  I have all charts available in excel
+        as I was not able to do this in Python.  I can include any of that if needed.
+        
+        note 3 on project: In the project images folder are 7 charts.png files.  chart1 & chart2.png came from 
+        the CDC and Veteran Affairs websites and charts3-7 I created.  This was referenced in the .txt but want
+        to include it here.  If you want to see any of this I can provide any graph. I figured a .png would be 
+        sufficient.
+        
+        note on python: I included the jupyter notebook from my work but didn't name it as "appendix", though that's my intent. Please note
+        that I have never used Python and had a variety of issues geting it loaded.  For example, my computer indicated
+        that the panda libray was loaded but I could never get it to import panda to use which I had intended
+        to use to parse the data.  I include the notebook to show 1) I was not able to leverage that library and that 2) I 
+        was at least able to pull the .csv file into the notebook but I am not experienced enough to parse it and chart the results
+        so I used what I knew, which is excel.  
     author:
         - Garner, Jeffry
     chapter: Technology
     hid:
         - 315
-    status: 80% 
+    status: 80% - finishing up .txt
     title: TBI - A Journey Beyond Contact Sports
     type: latex
     url: https://github.com/bigdata-i523/hid315/project/project.pdf
