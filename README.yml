@@ -31,3 +31,19 @@ paper2:
     title: Concussions and Big Data's Opportunities and Challenges
     type: latex
     url: https://github.com/bigdata-i523/hid315/paper2/paper2.pdf
+project:
+    abstract: >
+        A look into the data regarding concussions, from the focus on athletes to
+        the data driven concern regarding both the general population and military. A deep
+        dive into the CDC (Center for Disease Control) reporting along with a raw JSON
+        dataset from the Veterans Affairs Agency.  While we show some limited python functionality, the
+        data is converted and parsed then charted to help tell a story.  
+    author:
+        - Garner, Jeffry
+    chapter: Technology
+    hid:
+        - 315
+    status: 80% 
+    title: TBI - A Journey Beyond Contact Sports
+    type: latex
+    url: https://github.com/bigdata-i523/hid315/project/project.pdf
