@@ -69,12 +69,12 @@ project:
         excel.
     author:
         - Garner, Jeffry
-    chapter: Technology
+    chapter: Sport
     hid:
         - 315
     status: 80% - finishing up .txt
     title: >
         TBI - A Data Driven Journey Beyond Contact Sports...
         Putting Data In The Drivers Seat
-    type: latex
+    type: project
     url: https://github.com/bigdata-i523/hid315/project/
