@@ -3,7 +3,7 @@ owner:
     hid: 315
     name: Garner, Jeffry
     url: https://github.com/bigdata-i523/hid315
-paper1:
+ paper1:
     abstract: >
         This paper deals with the challenge Big Data/Data Science has with
         mobility network traffic in relationship to  forecasting network demands.  At
@@ -21,8 +21,8 @@ paper1:
     url: https://github.com/bigdata-i523/hid315/paper1/paper1.pdf
 paper2:
     review: Nov 6 2017
-    abstract: This paper looks at the role of Big Data/Data Science related to concussions.  Types of data, availability of data and limitations.
-             
+    abstract: This paper looks at the role of Big Data/Data Science related to concussions. 
+              Types of data, availability of data and limitations.
     author:
         - Garner, Jeffry
     hid:
@@ -52,11 +52,12 @@ project:
         to include it here.  If you want to see any of this I can provide any graph. I figured a .png would be 
         sufficient.
         
-        note on python: I included the jupyter notebook from my work but didn't name it as "appendix", though that's my intent. Please note
-        that I have never used Python and had a variety of issues geting it loaded.  For example, my computer indicated
-        that the panda libray was loaded but I could never get it to import panda to use which I had intended
-        to use to parse the data.  I include the notebook to show 1) I was not able to leverage that library and that 2) I 
-        was at least able to pull the .csv file into the notebook but I am not experienced enough to parse it and chart the results
+        note on python: I included the jupyter notebook from my work but didn't name it as "appendix", though that's my intent. 
+        Please note that I have never used Python and had a variety of issues geting it loaded.  
+        For example, my computer indicated that the panda libray was loaded, 
+        but I could never get it to import panda to use which I had intended
+        to use to parse the data.  I include the notebook to show 1) I was not able to leverage that library and that 
+        2) I was at least able to pull the .csv file into the notebook but I am not experienced enough to parse it and chart the results
         so I used what I knew, which is excel.  
     author:
         - Garner, Jeffry
@@ -64,6 +65,6 @@ project:
     hid:
         - 315
     status: 80% - finishing up .txt
-    title: TBI - A Journey Beyond Contact Sports
+    title: TBI - A Data Driven Journey Beyond Contact Sports...Putting Data In The Drivers Seat
     type: latex
     url: https://github.com/bigdata-i523/hid315/project/project.pdf
