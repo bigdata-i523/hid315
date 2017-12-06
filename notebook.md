@@ -11,6 +11,7 @@ LOGISTICS
   (10/30/17) - Behind on Python beginning Paper 2 development now.  Attended to family situation.
   (11/6/17) - Completed paper 2 and uploaded to Github.  This week plan to work on Python and update paper 2 as needed.  Also work on data for project and visit with the professor. 
   (11/13/17) - Attended class call and worked on uploading into GitHub via command line (stil learning).  Working on data for project and it's a challenge so far.  
+  (12/6/17) - Attended all the Monday calls.  Completed and uploaded project.
   
   THEORY
   
@@ -23,6 +24,10 @@ LOGISTICS
    
    (8/22/17 - 9/3/17) - First two chapters of Python for Kids.
    (9/11/17) - Read details on loading Python
+   (12/6/17) - November was following class notes with mixed results.  Overall had issues with terminal use and getting the
+               Panda library (that was installed) accessible and usable with my work.  Thus, it was limited.  I added
+               Jupyter Notebook and was able to upload a CSV but not parse it or build charts.  While I have no 
+               experience with Python I learned alot.  The TA spent time with me and I am thankful for that. 
    
    WRITING
    
@@ -34,6 +39,7 @@ LOGISTICS
    (10/9/17 - 10/13/17) - Gathered material for Paper 2 and have begun reading.
    (10/30/17) - Completing Paper 2 reading and to begin writing. 
    (11/6/17) - Completed Paper 2 and uploaded to Github repository.
+   (12/6/17) - Completed Project and uploaded everything to Github.
    
    ASSIGNMENTS
    
@@ -46,6 +52,7 @@ LOGISTICS
    (10/30/17) - Finishing reading on Paper 2 and to begin writing.  Behind on Python and look to catch up in the next two weeks.
    (11/6/17) - Finished paper 2 and uploaded and completed Github repository.
    (11/19/17) - Working on concussion data sets that I can use for project (limited).
+   (12/6/17) - Project complete.
    
    
    MEETING
@@ -59,4 +66,5 @@ LOGISTICS
    (10/30/17) - Attended Monday call.
    (11/6/17) - Attended Monday call.
    (11/13/17) - Attended Monday call with Juliette (she was very helpful).
+   (12/6/17) - I attended most every Monday call and a couple other calls. Thanks for the assistance. 
    
