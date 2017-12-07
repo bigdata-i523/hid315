@@ -34,6 +34,7 @@ paper2:
     title: Concussions and Big Data's Opportunities and Challenges
     type: latex
     url: https://github.com/bigdata-i523/hid315/paper2/
+    chapter: Health
 project:
     abstract: >
         A look into the data regarding concussions, from the focus on
